@@ -1,6 +1,7 @@
-# 🌿 Bio-Synthesizer AI
+# 🌿 Bio-Synthesizer AI #
 
 Bio-Synthesizer AI is a local-first analytical tool designed for botanical researchers and medicinal chemistry enthusiasts. By leveraging LangGraph for structured state-machine navigation and Ollama (Llama 3) for reasoning, this tool automates the retrieval of botanical information and chemical properties.
+
 ---
 
 ## 🏗️ Architecture Blueprint
