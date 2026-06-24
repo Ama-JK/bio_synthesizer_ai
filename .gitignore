@@ -1,0 +1,11 @@
+config.py
+.env
+
+
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.streamlit/
+*.log
